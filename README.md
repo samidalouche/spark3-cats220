@@ -15,12 +15,6 @@ wget https://mirror.its.dal.ca/apache/spark/spark-3.0.1/spark-3.0.1-bin-hadoop2.
 java -cp cats211/target/scala-2.12/catsspark211-assembly-0.1.0-SNAPSHOT.jar catsspark.TestApp
 ```
 
-### Spark 2.4.7: works fine
-```
-spark-2.4.7-bin-hadoop2.7/bin/spark-shell --jars cats211/target/scala-2.12/catsspark211-assembly-0.1.0-SNAPSHOT.jar
-catsspark.Boom.boom()
-```
-
 
 ### Spark 3.0.1: works fine
 
