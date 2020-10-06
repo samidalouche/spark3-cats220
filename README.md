@@ -35,7 +35,7 @@ java -cp cats220/target/scala-2.12/catsspark220-assembly-0.1.0-SNAPSHOT.jar cats
 
 ```
 
-spark-2.4.7-bin-hadoop2.7/bin/spark-shell --jars cats220/target/scala-2.12/catsspark220-assembly-0.1.0-SNAPSHOT.jar
+spark-3.0.1-bin-hadoop2.7/bin/spark-shell --jars cats220/target/scala-2.12/catsspark220-assembly-0.1.0-SNAPSHOT.jar
 catsspark.Boom.boom()
 ```
 
