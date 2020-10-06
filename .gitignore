@@ -1,0 +1,6 @@
+target/
+/spark-*
+
+.bloop/
+.metals/
+.vscode/
